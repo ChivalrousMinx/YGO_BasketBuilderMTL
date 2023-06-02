@@ -18,6 +18,7 @@ CardBrawlers : Second floor, 7105 Saint Denis St unit 202, Montreal, Quebec H2S 
 
 Cartamagica : 6360 Rue St-Hubert, Montréal, QC H2S 2M2
 
-Pour lancer le programme, exécuter main.py dans votre IDE Python préféré (conseil du chef: Visual Studio Code).
+Pour lancer le programme, cloner la branche master et exécuter main.py dans votre IDE Python préféré (conseil du chef: Visual Studio Code).
 
 !!! Evidemment que harceler le site de votre commerce du coin ça ne lui plait pas beaucoup, limiter au max les exécutions (en particulier vers cartamagica) !!!
+
