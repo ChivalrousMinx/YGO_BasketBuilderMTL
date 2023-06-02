@@ -2,7 +2,7 @@
 
 Bienvenue dans le premier comparateur de prix pour cartes Yu-Gi-Oh! de Montréal !
 
-Rentrer votre liste de cartes dans le fichier txt decklist. Respeter les règles suivantes pour remplir votre decklist :
+Rentrer votre liste de cartes dans le fichier txt decklist. Respecter les règles suivantes pour remplir votre decklist :
 
 une carte par ligne
 ecrire sous la forme: quantité voulue[espace]nom de la carte PRECISEMENT et IN ENGLISH PLEASE
